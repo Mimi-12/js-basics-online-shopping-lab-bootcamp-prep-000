@@ -10,7 +10,8 @@ function setCart(c) {
 }
 
 function addToCart(item) {
-  item = [ { itemName:"bananas", itemPrice: 17 }, { itemName:"pancake batter",itemPrice: 5 }, { itemName:"eggs", itemPrice: 49 }]f the item, }
+  item = [{ itemName:"bananas", itemPrice: 17 }] 
+}
  // write your code here
 }
 
